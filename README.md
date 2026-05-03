@@ -24,7 +24,4 @@ Prepared by Ümit Mert Çağlar and Alptekin Temizel
 - CLIP (openai/clip-vit-base-patch32)
 - RemoteCLIP (chendelong/RemoteCLIP)
 
-## Results Summary
-- CLIP caption similarity: 0.2788 (correct) vs 0.2681 (misleading)
-- RemoteCLIP caption similarity: 0.2430 (correct) vs 0.2242 (misleading)
-- RemoteCLIP shows 75% larger sensitivity to caption corruption than CLIP
+
