@@ -2,7 +2,7 @@
 
 Evaluating text bias in RS multi-modal embeddings.
 For detailed information about the project:
-[report](DI725_Term_Project_Phase_2.pdf).
+[report](DI725-TP2-Report.pdf).
 
 ## Dataset
 This project uses the **ARAS400k** dataset, a remote sensing 
